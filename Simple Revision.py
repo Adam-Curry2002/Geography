@@ -1,6 +1,6 @@
 import random
 my_dict =   {
-                "How many Vvlcanoes are int he RIng of Fire" : "452",
+                "How many Volcanoes are in the Ring of Fire" : "452",
             }
 
 #welcome message
